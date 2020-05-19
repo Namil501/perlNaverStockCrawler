@@ -3,7 +3,7 @@
 
 # 사용예시(삼성전자)
 
-./nStockCrawler 005930
+./nStockCrawler.pl 005930
 
 
 첫번째 인자에 종목코드를 입력하면 됩니다.
